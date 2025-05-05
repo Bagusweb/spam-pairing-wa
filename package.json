@@ -6,7 +6,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "FlowFalcon",
+  "author": "BagusErlangga",
   "license": "ISC",
   "description": "",
   "dependencies": {
